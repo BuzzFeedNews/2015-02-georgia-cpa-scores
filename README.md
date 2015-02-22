@@ -6,7 +6,11 @@ This repository contains the data and code used to analyze the scores that Georg
 
 ## Reports
 
-Georgia provided BuzzFeed News with three PDFs, covering the 10 most recent quarters' scores. They can be found in the [reports](reports/) directory.
+Georgia provided BuzzFeed News with three PDFs, covering the 10 most recent quarters' scores:
+
+- [Fiscal Year 2013](https://github.com/BuzzFeedNews/2015-02-georgia-cpa-scores/blob/master/reports/RBWO_FY2013_Provider_Profile_Guide.pdf?raw=true)
+- [Fiscal Year 2014](https://github.com/BuzzFeedNews/2015-02-georgia-cpa-scores/blob/master/reports/RBWO_FY2014_Provider_Profile_Guide.pdf?raw=true)
+- [Fiscal Year 2015, Q1 and Q2](https://github.com/BuzzFeedNews/2015-02-georgia-cpa-scores/blob/master/reports/RBWO_FY2015_Provider_Profile_Guide.pdf?raw=true)
 
 ## Analysis
 
